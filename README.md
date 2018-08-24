@@ -25,5 +25,5 @@ The following optional features are implemented:
  User can share an article link to their friends or email it to themselves
  
  Open Library used:
- Android Async HTTP - Simple asynchronous HTTP requests with JSON parsing
-Glide - Image loading and caching library for Android
+ -Android Async HTTP - Simple asynchronous HTTP requests with JSON parsing
+ -Glide - Image loading and caching library for Android
