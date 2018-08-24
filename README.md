@@ -26,4 +26,5 @@ The following optional features are implemented:
  
  Open Library used:
  -Android Async HTTP - Simple asynchronous HTTP requests with JSON parsing
- -Glide - Image loading and caching library for Android
+- Glide - Image loading and caching library for Android
+ 
