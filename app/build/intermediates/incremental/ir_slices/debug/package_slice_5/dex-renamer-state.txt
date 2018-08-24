@@ -1,0 +1,4 @@
+#Thu Aug 23 22:17:14 PDT 2018
+base.0=/home/sanchayita/Desktop/AndroidStudioProjects/NYTimesApp/app/build/intermediates/transforms/dexMerger/debug/253
+path.0=classes.dex
+renamed.0=classes.dex
