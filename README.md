@@ -24,7 +24,7 @@ The following optional features are implemented:
  Used the ActionBar SearchView or custom layout as the query box instead of an EditText
  User can share an article link to their friends or email it to themselves
  
- Open Library used:
+ Open Library Used:
  -Android Async HTTP - Simple asynchronous HTTP requests with JSON parsing
 - Glide - Image loading and caching library for Android
  
